@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592000248932.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C0A0FDBB",
+    "lastKnownWriteTime" : 1592006266,
+    "last_content_update" : 1592006266628,
+    "path" : "~/GitHub/HeadlessChromeR/chrome.R",
+    "project_path" : "chrome.R",
+    "properties" : {
+        "cursorPosition" : "41,1",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
